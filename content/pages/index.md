@@ -740,7 +740,7 @@ sections:
     type: TestimonialsSection
   - elementId: ''
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Testimonials
     subtitle: What our customers say about us
     testimonials:
