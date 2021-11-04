@@ -93,12 +93,12 @@
             "label": "Light, same alignment",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "colors": "colors-c",
-                "title": "",
-                "subtitle": "",
+                "colors": "colors-a",
+                "title": "Testimonials",
+                "subtitle": "What our customers say about us",
                 "testimonials": [
                     {
-                        "quote": "It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
+                        "quote": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
                         "name": "Hilary Ouse",
                         "title": "Head Fisherman & Finance",
                         "image": {
@@ -109,20 +109,49 @@
                         "styles": {
                             "self": {
                                 "margin": ["mt-0", "mb-0"],
-                                "flexDirection": "col"
+                                "flexDirection": "row-reverse"
                             },
                             "quote": {
-                                "textAlign": "center"
+                                "textAlign": "right"
                             },
                             "name": {
                                 "fontWeight": 400,
                                 "fontStyle": "normal",
-                                "textAlign": "center"
+                                "textAlign": "right"
                             },
                             "title": {
                                 "fontWeight": 400,
                                 "fontStyle": "normal",
-                                "textAlign": "center"
+                                "textAlign": "right"
+                            }
+                        }
+                    },
+                    {
+                        "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                        "name": "Dianne Ameter",
+                        "title": "Head Fisherman & Founder",
+                        "image": {
+                            "type": "ImageBlock",
+                            "url": "/images/fisherwoman2.jpg",
+                            "altText": "Head Fisherman & Founder"
+                        },
+                        "styles": {
+                            "self": {
+                                "margin": ["mt-0", "mb-0"],
+                                "flexDirection": "row"
+                            },
+                            "quote": {
+                                "textAlign": "left"
+                            },
+                            "name": {
+                                "fontWeight": 400,
+                                "fontStyle": "normal",
+                                "textAlign": "left"
+                            },
+                            "title": {
+                                "fontWeight": 400,
+                                "fontStyle": "normal",
+                                "textAlign": "left"
                             }
                         }
                     }
@@ -139,12 +168,12 @@
                     "title": {
                         "fontWeight": 700,
                         "fontStyle": "normal",
-                        "textAlign": "center"
+                        "textAlign": "left"
                     },
                     "subtitle": {
                         "fontWeight": 400,
                         "fontStyle": "normal",
-                        "textAlign": "center"
+                        "textAlign": "left"
                     }
                 }
             }
