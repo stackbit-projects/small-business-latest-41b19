@@ -2,7 +2,7 @@
     "model": "TestimonialsSection",
     "presets": [{
             "label": "Light, same alignment",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": "images/testimonials-light.jpg",
             "data": {
                 "colors": "colors-a",
                 "title": "Testimonials",
