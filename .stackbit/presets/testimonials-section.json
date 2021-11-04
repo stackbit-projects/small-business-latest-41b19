@@ -109,7 +109,7 @@
                         "styles": {
                             "self": {
                                 "margin": ["mt-0", "mb-0"],
-                                "flexDirection": "row"
+                                "flexDirection": "row-reverse"
                             },
                             "quote": {
                                 "textAlign": "right"
