@@ -1,7 +1,6 @@
 {
     "model": "TestimonialsSection",
-    "presets": [
-        {
+    "presets": [{
             "label": "Dark image bottom, without title",
             "thumbnail": "images/placeholder.png",
             "data": {
