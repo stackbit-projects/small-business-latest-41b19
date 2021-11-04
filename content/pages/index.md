@@ -766,6 +766,83 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
+    title: ''
+    subtitle: ''
+    testimonials:
+      - quote: >-
+          It is a long established fact that a reader will be distracted by the
+          readable content of a page when looking at its layout.
+        name: Hilary Ouse
+        title: Head Fisherman & Finance
+        image:
+          type: ImageBlock
+          url: /images/fisherwoman.jpg
+          altText: Head Fisherman & Finance
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: right
+          name:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: right
+          title:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: right
+      - quote: >-
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.
+        name: Dianne Ameter
+        title: Head Fisherman & Founder
+        image:
+          type: ImageBlock
+          url: /images/fisherwoman2.jpg
+          altText: Head Fisherman & Founder
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: right
+          name:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: right
+          title:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: right
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: right
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: right
+    type: TestimonialsSection
+  - elementId: ''
+    colors: colors-c
+    backgroundWidth: full
     title: Testimonials
     subtitle: What our customers say about us
     testimonials:
