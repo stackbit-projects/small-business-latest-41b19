@@ -13,6 +13,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/hero-image.png
     title: We do fishing differently.
     subtitle: Fresh. Better. Faster
     text: |-
