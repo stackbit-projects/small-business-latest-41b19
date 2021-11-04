@@ -91,7 +91,7 @@
         },
         {
             "label": "Light, different alignment",
-            "thumbnail": "images/testimonials-light.jpg",
+            "thumbnail": "images/testimonial-diff-align.jpg",
             "data": {
                 "colors": "colors-a",
                 "title": "Testimonials",
