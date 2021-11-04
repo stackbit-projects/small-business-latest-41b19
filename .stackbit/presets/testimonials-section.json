@@ -179,7 +179,7 @@
             }
         },
         {
-            "label": "Dark image left, without title",
+            "label": "Dark, no images",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-c",
