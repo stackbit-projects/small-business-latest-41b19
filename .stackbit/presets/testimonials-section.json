@@ -154,35 +154,6 @@
                                 "textAlign": "left"
                             }
                         }
-                    },
-                    {
-                        "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                        "name": "Dianne Ameter",
-                        "title": "Head Fisherman & Founder",
-                        "image": {
-                            "type": "ImageBlock",
-                            "url": "",
-                            "altText": ""
-                        },
-                        "styles": {
-                            "self": {
-                                "margin": ["mt-0", "mb-0"],
-                                "flexDirection": "row"
-                            },
-                            "quote": {
-                                "textAlign": "left"
-                            },
-                            "name": {
-                                "fontWeight": 400,
-                                "fontStyle": "normal",
-                                "textAlign": "left"
-                            },
-                            "title": {
-                                "fontWeight": 400,
-                                "fontStyle": "normal",
-                                "textAlign": "left"
-                            }
-                        }
                     }
                 ],
                 "styles": {
@@ -227,7 +198,7 @@
                         "styles": {
                             "self": {
                                 "margin": ["mt-0", "mb-0"],
-                                "flexDirection": "row"
+                                "flexDirection": "row-reverse"
                             },
                             "quote": {
                                 "textAlign": "center"
