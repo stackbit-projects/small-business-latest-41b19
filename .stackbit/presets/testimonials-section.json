@@ -73,7 +73,7 @@
                         "width": "wide",
                         "margin": ["mt-0", "mb-0"],
                         "padding": ["pt-12", "pb-12"],
-                        "alignItems": "left",
+                        "alignItems": "center",
                         "justifyContent": "left"
                     },
                     "title": {
