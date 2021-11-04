@@ -184,7 +184,7 @@
             "data": {
                 "colors": "colors-c",
                 "title": "",
-                "subtitle": "What our customers say about us",
+                "subtitle": "",
                 "testimonials": [
                     {
                         "quote": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
