@@ -90,7 +90,7 @@
             }
         },
         {
-            "label": "Dark image bottom, without title",
+            "label": "Light, same alignment",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-c",
