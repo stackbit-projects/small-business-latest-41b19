@@ -201,7 +201,7 @@
                                 "flexDirection": "row"
                             },
                             "quote": {
-                                "textAlign": "left"
+                                "textAlign": "right"
                             },
                             "name": {
                                 "fontWeight": 400,
