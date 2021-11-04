@@ -69,6 +69,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/hero-image.png
   - elementId: ''
     variant: variant-a
     colors: colors-a
