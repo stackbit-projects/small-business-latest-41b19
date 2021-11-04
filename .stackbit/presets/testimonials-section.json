@@ -180,7 +180,7 @@
         },
         {
             "label": "Dark, same alignment, no title",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": "images/testimonial-dark.jpg",
             "data": {
                 "colors": "colors-c",
                 "title": "",
