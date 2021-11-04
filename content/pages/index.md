@@ -573,7 +573,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-        alignItems: left
+        alignItems: flex-end
         justifyContent: left
       title:
         fontWeight: 700
