@@ -52,7 +52,7 @@
                                 "flexDirection": "row"
                             },
                             "quote": {
-                                "textAlign": "right"
+                                "textAlign": "left"
                             },
                             "name": {
                                 "fontWeight": 400,
