@@ -1,7 +1,7 @@
 {
     "model": "TestimonialsSection",
     "presets": [{
-            "label": "Light, image different direction",
+            "label": "Light, different alignment",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-a",
