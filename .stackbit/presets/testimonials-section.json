@@ -1,7 +1,6 @@
 {
     "model": "TestimonialsSection",
-    "presets": [
-        {
+    "presets": [{
             "label": "Light image left, with title",
             "thumbnail": "images/placeholder.png",
             "data": {
