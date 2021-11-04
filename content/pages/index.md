@@ -61,6 +61,14 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    feature:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
   - elementId: ''
     variant: variant-a
     colors: colors-a
