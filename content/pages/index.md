@@ -63,7 +63,7 @@ sections:
     type: HeroSection
     feature:
       altText: hero image
-      caption: lorem-ipsum
+      caption: hero image
       elementId: ''
       styles:
         self:
