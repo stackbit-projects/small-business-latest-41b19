@@ -182,7 +182,7 @@
             "label": "Light, same alignment",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "colors": "colors-a",
+                "colors": "colors-c",
                 "title": "Testimonials",
                 "subtitle": "What our customers say about us",
                 "testimonials": [
