@@ -1,6 +1,7 @@
 {
     "model": "TestimonialsSection",
-    "presets": [{
+    "presets": [
+        {
             "label": "Light, different alignment",
             "thumbnail": "images/placeholder.png",
             "data": {
