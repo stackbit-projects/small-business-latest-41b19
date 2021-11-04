@@ -62,7 +62,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     feature:
-      altText: lorem-ipsum
+      altText: hero image
       caption: lorem-ipsum
       elementId: ''
       styles:
