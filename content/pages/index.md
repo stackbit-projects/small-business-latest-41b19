@@ -30,10 +30,6 @@ sections:
         label: Learn More
         url: /
         style: secondary
-    feature:
-      type: ImageBlock
-      url: /images/hero-image.png
-      altText: Hero section image
     styles:
       self:
         height: screen
@@ -100,7 +96,9 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
-        margin: ["mt-0", "mb-12"]
+        margin:
+          - mt-0
+          - mb-12
       actions:
         justifyContent: center
     type: FeaturedPostsSection
