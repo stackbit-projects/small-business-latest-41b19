@@ -1,12 +1,12 @@
 {
     "model": "TestimonialsSection",
     "presets": [{
-            "label": "Dark image bottom, without title",
+            "label": "Light image left, with title",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "colors": "colors-c",
-                "title": "",
-                "subtitle": "",
+                "colors": "colors-a",
+                "title": "Testimonials",
+                "subtitle": "What our customers say about us",
                 "testimonials": [
                     {
                         "quote": "It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
@@ -20,7 +20,7 @@
                         "styles": {
                             "self": {
                                 "margin": ["mt-0", "mb-0"],
-                                "flexDirection": "col"
+                                "flexDirection": "row-reverse"
                             },
                             "quote": {
                                 "textAlign": "center"
@@ -36,7 +36,38 @@
                                 "textAlign": "center"
                             }
                         }
+                    }
+                ],
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": ["mt-0", "mb-0"],
+                        "padding": ["pt-12", "pb-12"],
+                        "alignItems": "center",
+                        "justifyContent": "center"
                     },
+                    "title": {
+                        "fontWeight": 700,
+                        "fontStyle": "normal",
+                        "textAlign": "center"
+                    },
+                    "subtitle": {
+                        "fontWeight": 400,
+                        "fontStyle": "normal",
+                        "textAlign": "center"
+                    }
+                }
+            }
+        },
+        {
+            "label": "Dark image bottom, without title",
+            "thumbnail": "images/placeholder.png",
+            "data": {
+                "colors": "colors-c",
+                "title": "",
+                "subtitle": "",
+                "testimonials": [
                     {
                         "quote": "It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
                         "name": "Hilary Ouse",
