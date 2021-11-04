@@ -61,6 +61,13 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    feature:
+      fields: []
+      submitLabel: lorem-ipsum
+      elementId: lorem-ipsum
+      action: lorem-ipsum
+      destination: lorem-ipsum
+      type: FormBlock
   - elementId: ''
     variant: variant-a
     colors: colors-a
