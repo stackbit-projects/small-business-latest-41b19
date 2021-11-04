@@ -183,7 +183,7 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-c",
-                "title": "Testimonials",
+                "title": "",
                 "subtitle": "What our customers say about us",
                 "testimonials": [
                     {
