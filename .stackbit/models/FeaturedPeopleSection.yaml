@@ -54,7 +54,7 @@ fields:
     default:
       - content/data/team/dianne-ameter.json
       - content/data/team/hilary-ouse.json
-      - content/data/team/hilary-ouse.json
+      - content/data/team/desmond-eagle.json
   - type: style
     name: styles
     styles:
