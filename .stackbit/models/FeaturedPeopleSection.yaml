@@ -53,7 +53,7 @@ fields:
         - Person
     default:
       - content/data/team/dianne-ameter.json
-      - content/data/team/hugh-saturation.json
+      - content/data/team/hilary-ouse.json
   - type: style
     name: styles
     styles:
