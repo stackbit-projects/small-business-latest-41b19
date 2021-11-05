@@ -71,7 +71,7 @@ sections:
       type: ImageBlock
       url: /images/hero-image.png
   - elementId: ''
-    variant: variant-c
+    variant: variant-a
     colors: colors-a
     backgroundWidth: full
     title: About us
